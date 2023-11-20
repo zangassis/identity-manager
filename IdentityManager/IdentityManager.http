@@ -1,6 +1,0 @@
-@IdentityManager_HostAddress = http://localhost:5076
-
-GET {{IdentityManager_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
